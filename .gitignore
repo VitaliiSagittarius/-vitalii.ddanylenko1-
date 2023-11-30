@@ -1,0 +1,13 @@
+#IDEA Files
+.idea
+target
+report
+allure-results
+.allure
+*.iml
+*.ipr
+/GradleProject/
+/.gradle/
+.gradle
+build
+/gradle/
